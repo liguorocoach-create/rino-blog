@@ -1,0 +1,14 @@
+/ (root)
+|-- _config.yml
+|-- index.html
+|-- blog.html
+|-- _layouts/
+|     |-- default.html
+|     |-- post.html
+|
+|-- _posts/
+|     |-- 2025-01-01-primo-articolo.md
+|
+|-- assets/
+      |-- css/
+      |     |-- style.css
